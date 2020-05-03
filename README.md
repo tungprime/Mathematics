@@ -1,2 +1,1 @@
-# Mathematics
- 
+This is a collection of my writing on mathematics.
